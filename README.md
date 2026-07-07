@@ -31,8 +31,6 @@ The dataset (`Train.csv` / `Test.csv`) contains 8523 training records with 12 co
 
 Source: [BigMart Sales Data on Kaggle](https://www.kaggle.com/datasets/mrmorj/bigmart-sales-data)
 
-> **Note:** Due to size/licensing, raw CSVs aren't committed to this repo. Download
-> `Train.csv` and `Test.csv` from the Kaggle link above and place them inside `data/`.
 
 ##  Approach
 
@@ -106,6 +104,3 @@ jupyter notebook notebooks/bigmart-sales-data-sales-regression.ipynb
 - Log-transform the target to handle right-skew before modeling
 - Cross-validation instead of a single train/test split for more robust scores
 
-## License
-
-This project is released under the MIT License.
