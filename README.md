@@ -71,31 +71,7 @@ Ridge Regression.
 - scikit-learn — preprocessing, modeling, evaluation
 - xgboost — gradient boosted trees
 
-##  Repository Structure
 
-```
-bigmart-sales-prediction/
-├── data/                                        # place Train.csv / Test.csv here (not committed)
-├── notebooks/
-│   └── bigmart-sales-data-sales-regression.ipynb
-├── images/                                      # exported plots (optional)
-├── requirements.txt
-└── README.md
-```
-
-##  How to Run
-
-```bash
-git clone https://github.com/<your-username>/bigmart-sales-prediction.git
-cd bigmart-sales-prediction
-pip install -r requirements.txt
-```
-
-Download `Train.csv` and `Test.csv` from Kaggle into `data/`, then open the notebook:
-
-```bash
-jupyter notebook notebooks/bigmart-sales-data-sales-regression.ipynb
-```
 
 ## Future Improvements
 
