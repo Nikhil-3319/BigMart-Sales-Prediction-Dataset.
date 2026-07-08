@@ -72,11 +72,3 @@ Ridge Regression.
 - xgboost — gradient boosted trees
 
 
-
-## Future Improvements
-
-- Hyperparameter tuning (GridSearchCV / Optuna) for the top-performing models
-- Try stacking/ensembling Gradient Boosting with XGBoost
-- Log-transform the target to handle right-skew before modeling
-- Cross-validation instead of a single train/test split for more robust scores
-
