@@ -29,7 +29,6 @@ The dataset (`Train.csv` / `Test.csv`) contains 8523 training records with 12 co
 | Outlet_Type | Grocery store or supermarket type |
 | **Item_Outlet_Sales** | **Target variable** — sales of the product in that store |
 
-Source: [BigMart Sales Data on Kaggle](https://www.kaggle.com/datasets/mrmorj/bigmart-sales-data)
 
 
 ##  Approach
